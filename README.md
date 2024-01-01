@@ -11,3 +11,7 @@ go run main.go
 telnet 127.0.0.1 8080
 ```
 
+### Demo
+
+https://github.com/dirham/go-realtime/assets/10306837/42df80d5-9172-4553-8d59-eff13bdcb6ea
+
